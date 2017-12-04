@@ -1,0 +1,33 @@
+{
+    "name": "varik-kos/o-auth-box-com",
+    "description": "Box.com storage v2 API",
+    "keywords": [
+        "spatie",
+        "box com",
+        "box",
+        "Box.com",
+        "v2",
+        "api"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/varik-kos/o-auth-box-com",
+    "authors": [
+        {
+            "name": "Valera Kostukevich",
+            "email": "v.kostukevich@gmail.com",            
+            "role": "Developer"
+        }
+    ],   
+    "require": {
+        "php": "^7.0",       
+        "varik-kos/o-auth-box-com": "1.0"       
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "VarikKos\\BoxComApi\\": ""
+        }
+    }
+}
