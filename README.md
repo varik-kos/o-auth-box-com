@@ -4,7 +4,7 @@ Api storage box.com v2.0
 # Installation
 You can install the package via composer:
 ```
-composer require varik-kos/api.box.com
+composer require varik-kos/o-auth-box-com
 ```
 
 
