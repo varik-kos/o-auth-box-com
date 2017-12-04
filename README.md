@@ -14,7 +14,7 @@ https://app.box.com/developers/console
 You'll find more info at the Box Developer Blog https://developer.box.com/reference
 
 ```php
-use varik-kos\api.box.com\Client
+use VarikKos\BoxComApi\Client
 
 $authToken = '**************************'
 //folder_id - The ID of the folder object
