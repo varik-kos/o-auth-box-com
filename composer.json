@@ -26,7 +26,7 @@
         "varik-kos/o-auth-box-com": "1.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.0",       
+        "phpunit/phpunit": "^6.0"   
     },
     "autoload": {
         "psr-4": {
