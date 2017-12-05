@@ -1,6 +1,9 @@
 {
     "name": "varik-kos/o-auth-box-com",
     "description": "Box.com storage v2 API",
+     "prefer-stable": true,
+    "type": "library",
+    "license": "Apache-2.0",
     "keywords": [
         "spatie",
         "box com",
