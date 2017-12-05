@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "VarikKos\\BoxComApi\\": ""
+            "VarikKos\\BoxComApi\\": "src"
         }
     }
 }
